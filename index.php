@@ -234,6 +234,11 @@
                                         <i class="bi bi-circle"></i><span>Bonificação</span>
                                     </a>
                                 </li>
+                                <li>
+                                    <a href="#" class="text-success">
+                                        <i class="bi bi-circle"></i><span>Bonificação</span>
+                                    </a>
+                                </li>
                             </ul>
                         </li>
                         <li class="nav-item ">
