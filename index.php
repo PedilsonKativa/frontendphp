@@ -236,7 +236,7 @@
                                 </li>
                                 <li>
                                     <a href="#" class="text-success">
-                                        <i class="bi bi-circle"></i><span>Bonificação</span>
+                                        <i class="bi bi-circle"></i><span>Upgrade</span>
                                     </a>
                                 </li>
                             </ul>
